@@ -1,6 +1,6 @@
 # baresoil-example-chat
 
-This is a basic web chat demo for the [Baresoil PaaS](https://www.baresoil.com/). See a live demo at [chat.baresoil.cloud](https://chat.baresoil.cloud) (warning: public Internet comments may contain objectional material).
+This is a basic web chat demo for the [Baresoil PaaS](https://www.baresoil.com/). See a live demo at [chat.baresoil.cloud](https://chat.baresoil.cloud) (warning: public Internet comments may contain objectionable material).
 
   1. Install the Baresoil CLI: `npm install baresoil -g`
   2. Clone this repository
